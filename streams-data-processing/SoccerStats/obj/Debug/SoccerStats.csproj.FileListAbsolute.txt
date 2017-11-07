@@ -1,0 +1,7 @@
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\SoccerStats.exe.config
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\data.txt
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\SoccerStats.exe
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\SoccerStats.pdb
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\obj\Debug\SoccerStats.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\obj\Debug\SoccerStats.exe
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\obj\Debug\SoccerStats.pdb
