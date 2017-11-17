@@ -1,0 +1,17 @@
+https://api.cognitive.microsoft.com/bing/v7.0/suggestions
+
+https://api.cognitive.microsoft.com/bing/v7.0/entities
+
+https://api.cognitive.microsoft.com/bing/v7.0/images
+
+https://api.cognitive.microsoft.com/bing/v7.0/news
+
+https://api.cognitive.microsoft.com/bing/v7.0/spellcheck
+
+https://api.cognitive.microsoft.com/bing/v7.0/videos
+
+https://api.cognitive.microsoft.com/bing/v7.0
+
+Key 1: ee1806bcf76b4465b828f6d070ef8afd
+
+Key 2: 1faa925e2e524f56aef350cf985f58f8

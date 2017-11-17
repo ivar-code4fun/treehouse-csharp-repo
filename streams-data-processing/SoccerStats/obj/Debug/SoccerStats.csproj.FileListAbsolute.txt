@@ -6,3 +6,6 @@ C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\Soc
 C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\obj\Debug\SoccerStats.exe
 C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\obj\Debug\SoccerStats.pdb
 C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\SoccerGameResults.csv
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ravi\Documents\GitHub\treehouse\csharp-repo\streams-data-processing\SoccerStats\bin\Debug\players.json
